@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Toast Color Begin -->
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#AFFFFFFF</color>
+
+    <!-- Toast Color End -->
+    <!-- Dialog Color Begin -->
+    <color name="text_color">#FFFFFF</color>
+    <color name="divider_color">#11000000</color>
+    <color name="msg_color">#FFFFFFFF</color>
+    <!-- <color name="dialog_bg">#ffe74c3c</color> -->
+    <color name="dialog_bg">#ffffffff</color>
+    <color name="btn_press_color">#ff73bc</color>
+    <color name="btn_unpress_color">#ffffffff</color>
+    <!-- <color name="btn_unpress_color">#22000000</color> -->
+    <!-- Dialog Color End -->
+
+
+    <!-- Alipay Color Begin -->
+    <color name="TextColorBlack">#FF000000</color>
+    <color name="TextColorWhite">#FFFFFFFF</color>
+    <color name="TextColorGray">#FF505050</color>
+    <color name="ToastBgColor">#FF424242</color>
+    <color name="btnColor">#FFFFFF</color>
+    <color name="textColorforItemTitle">#FF666666</color>
+    <color name="secondbtntextColor">#FF496ea3</color>
+    <color name="textColorforCheckBox">#FF333333</color>
+    <color name="bgColor">#FFF2F2F2</color>
+    <color name="downLoadTextNomal">#FF3366CC</color>
+    <color name="downLoadTextPressed">#FFFFFFFF</color>
+    <color name="downLoadBackNomal">#FFFFFFFF</color>
+    <color name="downLoadBackFocus">#FF6698E7</color>
+    <color name="downLoadBackPressed">#FF3366CC</color>
+    <color name="dialog_tiltle_blue">#2277BB</color>
+    <color name="tran">#00ffffff</color>
+
+    <!-- SlideMenu -->
+    <color name="slide_text_color">#5a5b5d</color>
+    <color name="slide_underline_color">#c3c3c3</color>
+
+    <!-- SeekBar -->
+    <color name="progress_gray">#FFD8D8D8</color>
+    <color name="progress_gray_dark">#FF383838</color>
+    <color name="facial_popup_back">#77000000</color>
+    <color name="facial_gray">#DBDBDB</color>
+    <!-- 面膜测试结果表格背景色 -->
+    <color name="facial_result_back1">#f2f2f2</color>
+    <color name="facial_result_back2">#EEEEEE</color>
+
+</resources>
